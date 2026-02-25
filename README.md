@@ -1,6 +1,6 @@
 # Hi, I'm TitanKnis
 
-First-year Computer Science student passionate about Linux, DevOps, and Automation.
+First-year Computer Science student passionate about Linux, DevOps and the Cloud.
 
 ## Tech Stack
 - Linux/CLI
