@@ -8,7 +8,7 @@ Care about FOSS, security, and privacy. GrapheneOS user.
 
 ---
 
-**Stats:**
+## Stats
 
 ![](https://komarev.com/ghpvc/?username=aliknis&color=orange)
 
