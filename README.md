@@ -1,4 +1,4 @@
-# Hi, I'm aliknis
+# Hi, I'm Mohamed Ali Knis
 
 Runs NixOS on personal machines. Uses Git & GitHub daily. Comfortable in the terminal & CLI.
 
