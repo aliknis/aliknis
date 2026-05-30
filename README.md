@@ -1,21 +1,23 @@
-# Hi, I'm TitanKnis
+# Hi, I'm aliknis
 
-Second-year Computer Science student passionate about Linux, Open Source, DevOps and the Cloud.
+Runs NixOS on personal machines. Uses Git & GitHub daily. Comfortable in the terminal & CLI.
 
-## Tech Stack
-- Linux/CLI
-- Git & Version Control
-- Bash scripting
-  
-📈 **My GitHub Stats:**
+Interested in selfhosting. Some experience with Docker.
 
-![](https://komarev.com/ghpvc/?username=titanknis&color=blue)
+Care about FOSS, security, and privacy. GrapheneOS user.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titanknis&theme=codeSTACKr) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=titanknis&theme=codeSTACKr) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=titanknis&theme=codeSTACKr)
+---
+
+📈 **Stats:**
+
+![](https://komarev.com/ghpvc/?username=aliknis&color=orange)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliknis&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliknis&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliknis&theme=codeSTACKr)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
 </picture>
