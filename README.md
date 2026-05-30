@@ -1,13 +1,11 @@
 # Hi, I'm TitanKnis
 
-First-year Computer Science student passionate about Linux, DevOps and the Cloud.
+Third-year Computer Science student passionate about Linux, DevOps and the Cloud.
 
 ## Tech Stack
 - Linux/CLI
 - Git & Version Control
-- Python
 - Bash scripting
-- C Programming
   
 📈 **My GitHub Stats:**
 
